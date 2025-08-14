@@ -27,3 +27,4 @@ The goal is to predict stock price direction using:
 ## 📁 Files
 
 - `RF_with_SESClose.ipynb`: Main notebook containing code, visualizations, and analysis
+- `Stock Price Trend Prediction Using RF-XGBoost-LSTM.pdf`: Report detailing the methodology, data preprocessing, model training, and performance comparison, offering insights into the effectiveness of these approaches for financial market forecasting. 
